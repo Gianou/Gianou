@@ -1,3 +1,4 @@
+
 # Hi there, I'm David 👋
 
 Welcome to my GitHub profile! I am a software developer about to graduate from the HES-SO Valais/Wallis :switzerland: and Haaga-Helia UAS :finland:. Coding is a passion for me, it's a creative process that requires organisation, and that enables us to create and share amazing things!
@@ -10,6 +11,11 @@ Here are some of the projects I've worked on:
 - **Description:** NSE is a rythm game written in JavaScript.
 - **Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
 - **Link:** [NSE](https://nse-game.ch/)
+
+### Haaga-Helia-IoT-Experimental-Project
+- **Description:** This project based on ESP32 is an arcade-style game and gaming devices that uses unconventional controls.
+- **Tech Stack:** ![ESP32](https://img.shields.io/badge/-ESP32-blue) ![Firebase](https://img.shields.io/badge/-Firebase-orange)
+- **Link:** [Demo Video](https://www.youtube.com/watch?v=9Bk4u3yt4mI)
 <!--
 ### [Project 2 Name]
 - **Description:** [Brief description of the project]
