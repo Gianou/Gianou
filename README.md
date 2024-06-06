@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I am a software developer about to graduate from t
 
 Here are some of the projects I've worked on:
 
-### [Project 1 Name]
-- **Description:** [Brief description of the project]
-- **Tech Stack:** [Technologies used]
-- **Link:** [Link to the project repository]
-
+### NSE
+- **Description:** NSE is a rythm game written in JavaScript.
+- **Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
+- **Link:** [NSE](https://nse-game.ch/)
+<!--
 ### [Project 2 Name]
 - **Description:** [Brief description of the project]
 - **Tech Stack:** [Technologies used]
 - **Link:** [Link to the project repository]
-
+ -->
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianou&layout=compact&theme=radical" alt="Top Languages" style="height: 170px;"/>
