@@ -7,10 +7,16 @@ Welcome to my GitHub profile! I am a software developer about to graduate from t
 
 Here are some of the projects I've worked on:
 
+### GeoClicker
+- **Description:** GeoClicker is a region finding map based game.
+- **Tech Stack:** ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-brightgreen?logo=leaflet&logoColor=white)
+
+- **Play Now:** [GeoClicker](https://gianou.github.io/GEO_CLICKER/)
+
 ### NSE
 - **Description:** NSE is a rythm game written in JavaScript.
 - **Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
-- **Link:** [NSE](https://nse-game.ch/)
+- **Play Now:** [NSE](https://nse-game.ch/)
 
 ### Haaga-Helia-IoT-Experimental-Project
 - **Description:** This project based on ESP32 is an arcade-style game and gaming devices that uses unconventional controls.
