@@ -1,7 +1,7 @@
 
 # Hi there, I'm David 👋
 
-Welcome to my GitHub profile! I am a software developer about to graduate from the HES-SO Valais/Wallis :switzerland: and Haaga-Helia UAS :finland:. Coding is a passion for me, it's a creative process that requires organisation, and that enables us to create and share amazing things!
+Welcome to my GitHub profile! I am a software developer graduated from the HES-SO Valais/Wallis :switzerland: and Haaga-Helia UAS :finland:. Coding is a passion for me, it's a creative process that requires organisation, and that enables us to create and share amazing things!
 
 ## Projects
 
